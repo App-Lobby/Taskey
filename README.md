@@ -13,3 +13,7 @@ customize data model .
 **SwiftUI** : Used to create animated and reactive UI<br />
 **Core Data** : A Framework to persist the data in local <br />
 **SwiftPackage** : I have used a Swift Package to show the chart , [link](https://github.com/AppPear/ChartView) <br />
+
+# LICENSE 📄
+
+Taskey is released under the [MIT license](LICENSE). See LICENSE for details.
